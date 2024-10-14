@@ -1,3 +1,3 @@
 # apnacollegedemo
 Learning git again
-<br>By Anmol Pratap
+<br>By Anmol Pratap (coder)
